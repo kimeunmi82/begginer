@@ -1,0 +1,23 @@
+/* styles.css */
+/* 전체 문서의 배경색과 글꼴 지정 */
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+}
+
+#oz-link {  
+  text-decoration: none; 
+}
+
+.daily-title {
+  color: #3498db;  
+}
+
+.task {
+  font-size : 18px;
+  margin: 0 0 10px;
+}
+
+#challenge-task {
+  font-weight: bold;
+}
